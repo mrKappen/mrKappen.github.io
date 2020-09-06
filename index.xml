@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A collection of letters</title>
-    <link>tonykappen.com/</link>
+    <link>https://tonykappen.com/</link>
     <description>Recent content on A collection of letters</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2019. Theme by &lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;&lt;span&gt;github-style&lt;/span&gt;&lt;/a&gt;</copyright>
     
-	<atom:link href="tonykappen.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tonykappen.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>tonykappen.com/about/</link>
+      <link>https://tonykappen.com/about/</link>
       <pubDate>Fri, 04 Sep 2020 16:25:31 -0400</pubDate>
       
-      <guid>tonykappen.com/about/</guid>
+      <guid>https://tonykappen.com/about/</guid>
       <description>Hi there!
 This is a place where I think about things, and then write them down.
 Here is my resume</description>

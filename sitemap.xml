@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>tonykappen.com/about/</loc>
+    <loc>https://tonykappen.com/about/</loc>
     <lastmod>2020-09-04T16:25:31-04:00</lastmod>
   </url>
   
   <url>
-    <loc>tonykappen.com/</loc>
+    <loc>https://tonykappen.com/</loc>
   </url>
   
   <url>
-    <loc>tonykappen.com/categories/</loc>
+    <loc>https://tonykappen.com/categories/</loc>
   </url>
   
   <url>
-    <loc>tonykappen.com/tags/</loc>
+    <loc>https://tonykappen.com/tags/</loc>
   </url>
   
 </urlset>

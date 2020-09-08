@@ -2,22 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on A collection of letters</title>
-    <link>/posts/</link>
+    <link>https://tonykappen.com/posts/</link>
     <description>Recent content in Posts on A collection of letters</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 2019. Theme by &lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;&lt;span&gt;github-style&lt;/span&gt;&lt;/a&gt;</copyright>
+    <copyright>© 2020</copyright>
     <lastBuildDate>Fri, 04 Sep 2020 18:16:04 -0400</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tonykappen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A reading list</title>
-      <link>/posts/first/</link>
+      <title>A running list of great books I recommend</title>
+      <link>https://tonykappen.com/posts/first/</link>
       <pubDate>Fri, 04 Sep 2020 18:16:04 -0400</pubDate>
       
-      <guid>/posts/first/</guid>
-      <description></description>
+      <guid>https://tonykappen.com/posts/first/</guid>
+      <description>Surely you&amp;rsquo;re joking Mr.Feynman by Richard Feynmann
+ An autobiography by nobel prize winning physicist Richard Feynmann. This book is very fun to read and feynmann is an easy character to root for. Ultimately this book offered me valuable lessons in not taking yourself too seriously while at the same time pursuing anything with a great deal of integrity.  Thinking fast and slow by Daniel Kahneman
+ The main idea of this book is that your mind really consists of two systems:  A fast system that makes decisions quickly based on biases and heuristics (system 1) A slow system that is used when we make decisions after careful deliberation and consideration (system 2)   Kahneman argues that most of our decisions are made with the system 1 part of our minds.</description>
     </item>
     
   </channel>

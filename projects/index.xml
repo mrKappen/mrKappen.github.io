@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on A collection of letters</title>
+    <link>https://tonykappen.com/projects/</link>
+    <description>Recent content in Projects on A collection of letters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2020</copyright>
+    <lastBuildDate>Sun, 06 Sep 2020 16:33:47 -0400</lastBuildDate>
+    
+	<atom:link href="https://tonykappen.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photo Album Sharing Web Application</title>
+      <link>https://tonykappen.com/projects/image-collecter/</link>
+      <pubDate>Sun, 06 Sep 2020 16:33:47 -0400</pubDate>
+      
+      <guid>https://tonykappen.com/projects/image-collecter/</guid>
+      <description>A web app written in Golang allows an authenticated user to group their photos into albums and share these albums with a shareable link. Here&amp;rsquo;s what it looks like in action:
+You can try it out yourself at http://www.sharemyalbums.me/</description>
+    </item>
+    
+  </channel>
+</rss>

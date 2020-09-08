@@ -23,7 +23,17 @@
   </url>
   
   <url>
+    <loc>https://tonykappen.com/tags/books/</loc>
+    <lastmod>2020-09-04T18:16:04-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tonykappen.com/posts/</loc>
+    <lastmod>2020-09-04T18:16:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tonykappen.com/tags/</loc>
     <lastmod>2020-09-04T18:16:04-04:00</lastmod>
   </url>
   
@@ -34,10 +44,6 @@
   
   <url>
     <loc>https://tonykappen.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tonykappen.com/tags/</loc>
   </url>
   
 </urlset>
